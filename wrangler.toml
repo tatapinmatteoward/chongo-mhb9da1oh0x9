@@ -1,0 +1,3 @@
+name = "pc-error-fixer"
+compatibility_date = "2025-10-28"
+compatibility_flags = ["nodejs_compat"]
